@@ -32,7 +32,7 @@ library(devtools)
 # load the dataset
 load(file = "spotify.RData")
 
-# df is the original big dataset
+# df is the original big dataset 
 # df60 ~ df10 are  the relatively small datasets without the feature "popularity" 
 ```
 
