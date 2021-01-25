@@ -1,1 +1,7 @@
 #This is a readme file
+Let's begin with the baseline model that defines the popularity of a song using the metadata and observations we collect from SpotifyAPI. We then expand 
+our analysis to answer the below questions 
+      ·      What are the model’s overall performance on the test data and which are the significant features to consider with the prediction.
+      ·      Is there any model tuning that can be done to improve the model performance.
+      ·      How does the model perform against the test data?
+      ·      Investigate the interactions between the features and to mitigate the risk of overfitting models.
